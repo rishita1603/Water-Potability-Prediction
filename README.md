@@ -51,7 +51,7 @@ The models were compared using accuracy, and the best-performing model was selec
 
 ## Null Values
 
-![null values]("Null_Values.png")
+![null values](Null_Values.png)
 
 The visualization shows the exsiting null values.
 
@@ -59,7 +59,7 @@ The visualization shows the exsiting null values.
 
 ### Class Distribution
 
-![Class Distribution]("Imbalanced.png")
+![Class Distribution](Imbalanced.png)
 
 The graph shows the number of potable and non-potable water samples for checking if the data is imbalanced or not.
 
@@ -67,7 +67,7 @@ The graph shows the number of potable and non-potable water samples for checking
 
 ### Correlation Heatmap
 
-![Correlation Heatmap]("Correlation.png")
+![Correlation Heatmap](Correlation.png)
 
 The heatmap represents the correlation among all water quality features.
 
@@ -75,7 +75,7 @@ The heatmap represents the correlation among all water quality features.
 
 ## Model Comparison
 
-![Model Comparison]("Model.png")
+![Model Comparison](Model.png)
 
 Random Forest achieved the highest accuracy among all the trained models.
 
