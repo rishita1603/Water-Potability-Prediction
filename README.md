@@ -44,3 +44,40 @@ This project predicts whether water is safe to drink using Machine Learning clas
 ## Results
 
 The models were compared using accuracy, and the best-performing model was selected for prediction.
+
+
+
+
+
+## Null Values
+
+![null values]("Screenshots\Null_Values.png")
+
+The visualization shows the exsiting null values.
+
+---
+
+### Class Distribution
+
+![Class Distribution]("Screenshots\Imbalanced.png")
+
+The graph shows the number of potable and non-potable water samples for checking if the data is imbalanced or not.
+
+---
+
+### Correlation Heatmap
+
+![Correlation Heatmap]("Screenshots\Correlation.png")
+
+The heatmap represents the correlation among all water quality features.
+
+---
+
+## Model Comparison
+
+![Model Comparison]("Screenshots\Model.png")
+
+Random Forest achieved the highest accuracy among all the trained models.
+
+---
+
